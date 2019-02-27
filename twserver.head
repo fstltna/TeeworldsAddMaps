@@ -1,0 +1,18 @@
+sv_name "Your Game Name"
+sv_motd Put your MOTD string here
+sv_rcon_password "aaaaaa"
+password ""
+sv_max_clients 16
+sv_port 8305
+sv_external_port 8305
+sv_register 1
+sv_spamprotection 0
+sv_warmup 10
+logfile "/tmp/teeworlds.log"
+bindaddr 66.175.216.24
+add_vote "RESTART IN 10s" "restart 10"
+add_vote "Gamemode: DM" "exec dm.cfg"
+add_vote "Gamemode: CTF" "exec ctf.cfg"
+add_vote "Gamemode: TDM" "exec tdm.cfg"
+add_vote "Gamemode: TDM (DUEL)" "exec duel.cfg"
+
