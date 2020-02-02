@@ -1,5 +1,5 @@
-# Teeworlds Add Maps Utility
-Creates a configuration file with al the maps in the maps directory
+# Teeworlds Add Maps Utility (1.0)
+Creates a configuration file with all the maps in the maps directory added
 
 ***
 
@@ -8,4 +8,5 @@ Creates a configuration file with al the maps in the maps directory
 3. Run ./addmaps.pl and get your twserver.cfg file
 4. All done!
 
-If you need more help just go to [GamePlayer.club](https://gameplayer.club/index.php/contact-us) 
+If you need more help just go to [GamePlayer.club](https://gameplayer.club/index.php/contact-us)
+
