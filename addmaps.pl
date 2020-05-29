@@ -4,7 +4,7 @@ use strict;
 use warnings;
 
 # Set this to your maps folder
-my $MapFolder = "/root/twserver/data/maps";
+my $MapFolder = "/home/twowner/twserver/data/maps";
 
 # Other globals
 my $filename = "";
